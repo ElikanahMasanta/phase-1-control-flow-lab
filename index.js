@@ -1,5 +1,13 @@
 function scuberGreetingForFeet(){
-  // Write your code here!
+  function addFive(400) {
+    
+    let result
+    if ( 0 <= 400) {
+      result = "This is on me";
+    }
+   
+    return result
+  }
 }
 
 function ternaryCheckCity(){
